@@ -23,6 +23,6 @@ Add other battery options other than the P42A and allow for easier picking betwe
 ###################################################
 
 Credits: 
-Matthew Latta | https://github.com/mlatta824
-Jonnie Muench | 
+Matthew Latta | https://github.com/mlatta824,
+Jonnie Muench | ,
 Christopher Tralie | https://github.com/ctralie
