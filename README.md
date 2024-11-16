@@ -1,36 +1,37 @@
 ############### The Battery Builder ###############
 
-This project allows the user to design a custom-made batterypack in an arbitrary series count and parallel count.
+This project allows the user to design a custom-made batterypack in an arbitrary series count and parallel count. <br> 
 
-Series: Increases the maximum voltage output.
-Parallel: Increases the maximum capacity.
-
-###################################################
-
-USAGE:
-Best used in Visual Studio
-
-In Terminal:
-./driver <# Batteries in Series> <# Batteries in parallel>
-
-Both must be > 0 and series must be an even number.
-
-
-Visualize your battery:
-./battery.html
-use W, A, S, and D to move around.
+Series: Increases the maximum voltage output. <br> 
+Parallel: Increases the maximum capacity. <br> 
 
 ###################################################
 
-NOTE:
-The default battery used is the P42A. This can be manually changed in batterypack.cpp (154).
+USAGE: <br> 
+Best used in Visual Studio <br> 
 
-Potential plans:
-Add other battery options other than the P42A and allow for easier picking between battery types.
+In Terminal: <br> 
+./driver <# Batteries in Series> <# Batteries in parallel> <br> 
+
+Both must be > 0 and series must be an even number. <br> 
+
+
+Visualize your battery using three.js: <br> 
+./battery.html <br> 
+
+Uses W, A, S, and D to move around. <br> 
 
 ###################################################
 
-Credits: 
-Matthew Latta | https://github.com/mlatta824,
-Jonnie Muench | ,
+NOTE: <br> 
+The default battery used is the P42A. This can be manually changed in batterypack.cpp (154). <br> 
+
+Potential plans: <br> 
+Add other battery options other than the P42A and allow for easier picking between battery types. <br> 
+
+###################################################
+
+Credits:  <br> 
+Matthew Latta | https://github.com/mlatta824  <br> 
+Jonnie Muench |  <br> 
 Christopher Tralie | https://github.com/ctralie
