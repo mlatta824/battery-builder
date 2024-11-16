@@ -8,9 +8,17 @@ Parallel: Increases the maximum capacity.
 ###################################################
 
 USAGE:
+Best used in Visual Studio
+
+In Terminal:
 ./driver <# Batteries in Series> <# Batteries in parallel>
 
 Both must be > 0 and series must be an even number.
+
+
+Visualize your battery:
+./battery.html
+use W, A, S, and D to move around.
 
 ###################################################
 
